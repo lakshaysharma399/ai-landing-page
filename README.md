@@ -65,5 +65,17 @@ A modern, responsive landing page inspired by ChatGPT / OpenAI, built to showcas
 
 ---
 
-## 📁 Project Structure
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/lakshaysharma399/ai-landing-page.git
+cd ai-landing-page
+npm install
+npm run dev
+npm run build
 
